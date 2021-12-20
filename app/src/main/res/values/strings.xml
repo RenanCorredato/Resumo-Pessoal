@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ResumoPessoal</string>
     <string name="Nome">Renan Cleber Lopes Corredato</string>
-    <string name="Idade">34 anos, casado amante por Desevolvimento Android</string>
+    <string name="Idade">34 anos, casado, Desenvolvedor Android | Kotlin</string>
     <string name="Resumo">Atualmente estou fazendo 4° semestre do curso Análise
         de desenvolvimento de sistema pela FACULDADE IMPACTA - termino 2022.
         Cursando Desenvolvimento Mobile Android - Digital House - termino em
